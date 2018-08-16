@@ -1,0 +1,7 @@
+
+
+$(document).ready(function(){
+  var url = "https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/GDP-data.json";
+
+});
+  
